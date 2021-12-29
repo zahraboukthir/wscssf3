@@ -1,0 +1,61 @@
+body {
+  margin: 0%;
+  background-color: linen;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 2em;
+  color: black;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: lightblue;
+  border: 1px solid yellowgreen;
+  margin: 25px 25px;
+  padding: 25px 50px;
+  width: auto;
+}
+
+p {
+  text-indent: 20px;
+  margin: auto;
+  font-family: verdana;
+  font-style: italic;
+  font-size: 15px;
+  font-weight: bold;
+  border-top-style: dotted;
+  border-top-width: 4px;
+  border-top-color: red;
+  text-transform: capitalize;
+}
+div {
+  border: 5px;
+  border-style: solid;
+  border-color: navy;
+  margin: 25px;
+  padding: 25px;
+}
+a:active {
+  color: green;
+  text-decoration: none;
+  background-color: yellow;
+}
+a:visited {
+  color: red;
+  background-color: lightblue;
+}
+a:hover {
+  color: blue;
+  text-decoration: none;
+  background-color: yellow;
+}
+a:link {
+  color: black;
+  background-color: lightblue;
+}
+ul {
+  list-style-type: square;
+}
+img {
+  border-radius: 50%;
+}
